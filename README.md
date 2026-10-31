@@ -37,6 +37,12 @@ GitHub 숫자 ID: 33188584
 | A02 | [a02.sh](scripts/a02.sh) | [a02.txt](results/a02.txt) |
 | A03 | [a03.sh](scripts/a03.sh) | [a03.txt](results/a03.txt) |
 | A04 | [a04.sh](scripts/a04.sh) | [a04.txt](results/a04.txt) |
+| A05 | [a05.sh](scripts/a05.sh) | [a05.txt](results/a05.txt), [srv4_500.log](results/srv4_500.log) |
+| A06 | [a06.sh](scripts/a06.sh) | [a06.txt](results/a06.txt) |
+| A07 | [a07.sh](scripts/a07.sh) | [a07.txt](results/a07.txt) |
+| A08 | [a08.sh](scripts/a08.sh) | [a08.txt](results/a08.txt) |
+| A09 | [a09.sh](scripts/a09.sh) | [a09.txt](results/a09.txt) |
+| A10 | [a10.sh](scripts/a10.sh) | [a10.txt](results/a10.txt) |
 
 
 ## 4. 실행방법 (코드 블록)
