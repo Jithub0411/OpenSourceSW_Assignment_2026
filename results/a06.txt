@@ -1,0 +1,2 @@
+Total Bytes Transferred: 37009120
+Average Bytes Transferred: 18504.56
