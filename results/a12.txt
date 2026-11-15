@@ -1,0 +1,4 @@
+18
+hyperkit,GPL,97353
+hyperforge,GPL,87542
+echocore,GPL,85442
