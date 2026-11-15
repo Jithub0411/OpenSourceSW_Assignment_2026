@@ -1,4 +1,4 @@
-total 52
+total 56
 -rwxr-x--- 1 rog_strix rog_strix 251 Oct 18 04:27 a01.sh
 -rwxr-x--- 1 rog_strix rog_strix 382 Oct 18 17:50 a02.sh
 -rwxr-x--- 1 rog_strix rog_strix 421 Oct 18 18:14 a03.sh
@@ -12,3 +12,4 @@ total 52
 -rwxr-x--- 1 rog_strix rog_strix 178 Nov 15 14:25 a11.sh
 -rwxr-x--- 1 rog_strix rog_strix 360 Nov 15 15:04 a12.sh
 -rwxr-x--- 1 rog_strix rog_strix 271 Nov 15 15:30 a13.sh
+-rwxr-x--- 1 rog_strix rog_strix 552 Nov 15 16:02 a14.sh
