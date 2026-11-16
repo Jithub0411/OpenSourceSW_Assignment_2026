@@ -50,9 +50,9 @@ GitHub 숫자 ID: 33188584
 
 ## 4. 실행방법 (코드 블록)
 
-'''bash
+```bash
 bash run_all.sh
-'''
+```
 
 ## 5. Docker 이미지 이름
 
