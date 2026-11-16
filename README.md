@@ -43,12 +43,16 @@ GitHub 숫자 ID: 33188584
 | A08 | [a08.sh](scripts/a08.sh) | [a08.txt](results/a08.txt) |
 | A09 | [a09.sh](scripts/a09.sh) | [a09.txt](results/a09.txt) |
 | A10 | [a10.sh](scripts/a10.sh) | [a10.txt](results/a10.txt) |
-
+| A11 | [a11.sh](scripts/a11.sh) | [a11.txt](results/a11.txt), [a11.tar](results/a11.tar) |
+| A12 | [a12.sh](scripts/a12.sh) | [a12.txt](results/a12.txt) |
+| A13 | [a13.sh](scripts/a13.sh) | [a13.txt](results/a13.txt) |
+| A14 | [a14.sh](scripts/a14.sh) | [a14.txt](results/a14.txt), [top_ip](top_ip) |
 
 ## 4. 실행방법 (코드 블록)
 
+'''bash
 bash run_all.sh
-
+'''
 
 ## 5. Docker 이미지 이름
 
